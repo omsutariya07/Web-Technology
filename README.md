@@ -1,7 +1,7 @@
 # StudentHub Portal
 ### Comprehensive Web Technology Project (Practicals 1 to 15 Integration)
-**Developed by:** Aryan  
-**Project Location:** `D:\aryan`  
+**Developed by:** OM SUTARIYA
+**Project Location:** `D:\aimlom99`  
 **Technology Stack:** HTML5, CSS3 (Grid & Flexbox), Vanilla JavaScript (ES6+), PHP 8+, MySQL (MySQLi), Git  
 
 ---
